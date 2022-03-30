@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently actively looking for a Machine Learning/Data Science job.
 
-- 🌱 I’m currently learning **NLP**.
+- 🌱 I’m currently learning **GANs and NLP**.
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Data Science.**
 
