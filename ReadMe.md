@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Machine Learning Engineer from Malaysia, based in London.</h3>
 
-- 🔭 I’m currently a Software Developer at Queen's Lane Consultants.
+- 🔭 I’m currently a Software Developer at <a href="https://queenslc.com/" target="blank">Queen's Lane Consultants</a>.
 
 - 🌱 I’m currently learning **GANs and NLP**.
 
