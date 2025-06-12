@@ -8,15 +8,13 @@
 
 ---
 
-- 💼 I'm currently a Software Developer at <a href="https://queenslc.com/" target="_blank">Queen's Lane Consultants</a>, developing internal tools and document automation systems.
+💼 I’m currently a Software Developer at [Queen’s Lane Consultants](https://queenslc.com/), working on tools that help make document workflows and R&D tax claims easier for clients.
 
-- 👨‍💻 I enjoy building with **Node.js**, **React**, **Python**, **PostgreSQL**, and **AWS**.
+👨‍💻 I mainly build with **Node.js**, **React**, **Python**, **PostgreSQL**, and **AWS**, and enjoy working across both the frontend and backend.
 
-- 🧠 Exploring topics like **LLMs**, **GANs**, and **Neural Search** in my free time.
+🧠 Lately, I’ve been learning more about **LLMs**, **GANs**, and **Neural Search**, and exploring how they can be used in practical ways.
 
-- 💬 Ask me about **Machine Learning**, **Computer Vision**, **Full-Stack Engineering**, or **R&D Tax Tech**.
-
-- 📬 Reach me at: **adamhamzahkb@hotmail.com**
+💬 Always happy to chat about **Machine Learning**, **Computer Vision**, or anything full-stack.
 
 ---
 
@@ -54,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" alt="Scikit-Learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
 
@@ -66,7 +63,6 @@
 
   <!-- Infrastructure & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" height="40" alt="Heroku" />
